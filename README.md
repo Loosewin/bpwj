@@ -1,6 +1,9 @@
 bpwj
 ====
 
+> NOTE: This clone of [BPWJ](https://github.com/sujitpal/bpwj) was updated to Java 19, otherwise it is left untouched.
+> RIP Steve John Metsker.
+
 Simple Java Parser Development Framework created by [Steven John Metsker](http://c2.com/cgi/wiki?SteveMetsker) for his book [Building Parsers With Java](http://www.amazon.com/Building-Parsers-Java%C2%BF-Steven-Metsker/dp/0201719622).
 
 I first came across this framework when I read the book back in the early 2000s. At the time I had built parsers for some domain specific languages (DSL) in C ([lex and yacc](http://dinosaur.compilertools.net/lex/)) and was working on a parser for another DSL using [JavaCC](https://javacc.java.net/). In comparison, I found this framework much simpler and intuitive, so I ended up using it instead. I recently needed to build a rule-based parser for some Natural Language Processing (NLP) work I am doing, so I looked for this code on the Internet but couldn't find it.

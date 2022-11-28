@@ -1,7 +1,6 @@
 package sjm.examples.sling;
 
 import java.util.*;
-import com.sun.java.swing.*;
 import sjm.engine.*;
 import sjm.utensil.*;
 /*
