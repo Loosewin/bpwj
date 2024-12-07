@@ -18,7 +18,7 @@ I believe I am being true to the wishes of the author based on the readme.txt ac
 > you wrote the code. Otherwise you may use the code as you wish.
 >
 
-##Building
+## Building
 
 The code has just been copied into a Maven structure. It is currently set to use Java 1.7 but the code was originally written against a much older version, so older versions should work as well. The only dependency is on Xerces. To download this code and build a JAR that you can reference from your own application, execute the following sequence of commands:
 
